@@ -85,5 +85,5 @@ kata('''
 11111111111111111111¶¶11111111111111111111111''')
 def clear():
     os.system("clear")
-    os.system("cd /sdcard")
+    os.system("cd Tools-op")
     os.system("sh dhiya.sh")
