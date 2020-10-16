@@ -2,7 +2,7 @@ clear
 
 figlet -f slant Dhiya os . system
 sleep 1
-cd Tools-op
+
 python uu.py
 echo "========================================" | lolcat
 figlet -f slant DHIYA KING DEFACER | lolcat
